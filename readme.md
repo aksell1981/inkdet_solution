@@ -4,7 +4,7 @@ This is the training code of the 5th place solution for Kaggle Vesuvius Challeng
 
 Solution summary : https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection/discussion/417642
 
-Inference code : *************
+Inference code : https://www.kaggle.com/code/aksell7/3dresnet18-3dresnet34-infer/notebook?scriptVersionId=133769691
 
 *HARDWARE:* 
 
