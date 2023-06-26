@@ -28,13 +28,14 @@ nvidia drivers 515.105.01
 
 1.Place competition data to **data** folder as below:
 
+
 /data
 
-├── test
+└── test
 
-├── train
+└── train
 
-├── sample_submission.csv
+└── sample_submission.csv
 
 *2.Install python packages:*
 
