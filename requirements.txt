@@ -1,0 +1,7 @@
+segmentation-models-pytorch== 0.2.1
+gdown==4.7.1 
+tqdm==4.65.0   
+tifffile==2023.4.12
+imagecodecs==2021.8.26                    
+albumentations==1.2.1 
+warmup-scheduler==0.3

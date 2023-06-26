@@ -1,0 +1,3 @@
+python train_r34_3d_mosaic_aug1_all_folds.py
+python train_r18_3d_mosaic_aug1_fold1.py
+python train_r18_3d_mosaic_aug2_fold2a.py
