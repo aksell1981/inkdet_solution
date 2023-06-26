@@ -16,7 +16,7 @@ CPU AMD® Ryzen 7 3700
 
 1 x NVIDIA GeForce RTX3090
 
-#SOFTWARE: (python packages are detailed separately in requirements.txt)
+*SOFTWARE*: (python packages are detailed separately in requirements.txt)
 
 Python 3.9.7
 
@@ -41,7 +41,7 @@ nvidia drivers 515.105.01
 
 run **install_dependencies.sh**
 
-3.Prepare data:
+*3.Prepare data:*
 
 run **prepare_data.sh**
 
@@ -50,7 +50,7 @@ run **prepare_data.sh**
 run **train.sh**
 
 
-*Inference:*
+*5.Inference:*
 
 https://www.kaggle.com/code/aksell7/3dresnet18-3dresnet34-infer
 
