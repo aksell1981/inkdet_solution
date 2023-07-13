@@ -50,6 +50,7 @@ run **prepare_data.sh**
 run **train.sh**
 
 At the end of the training, there will be 3 new folders with 6 model weights
+
 *5.Inference:*
 
 https://www.kaggle.com/code/aksell7/3dresnet18-3dresnet34-infer
